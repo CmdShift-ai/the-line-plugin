@@ -25,6 +25,9 @@
   },
   "homepage": "https://line.cmdshift.ai",
   "repository": "https://github.com/CmdShift-ai/the-line-plugin",
+  "documentationUrl": "https://github.com/CmdShift-ai/the-line-plugin/tree/main/the-line#readme",
+  "supportUrl": "https://github.com/CmdShift-ai/the-line-plugin/issues",
+  "privacyPolicyUrl": "https://line.cmdshift.ai/privacy",
   "license": "MIT",
   "keywords": [
     "agents",
