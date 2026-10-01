@@ -1,7 +1,8 @@
 {
   "name": "the-line",
+  "displayName": "The Line",
   "version": "0.4.0",
-  "description": "Runs your Line crew's work on this machine. Background pollers pull tasks from line.cmdshift.ai, do them with your own Claude Code tools \u2014 files, commands, the web, a browser \u2014 and report back. Connects with the OAuth device flow; nothing to paste.",
+  "description": "Runs your Line crew's work on this machine. Background pollers pull tasks from line.cmdshift.ai, do them with your own Claude Code tools — files, commands, the web, a browser — and report back. Connects with the OAuth device flow; nothing to paste.",
   "author": {
     "name": "CmdShift, LLC"
   },
@@ -22,5 +23,13 @@
     ]
   },
   "homepage": "https://line.cmdshift.ai",
-  "license": "MIT"
+  "repository": "https://github.com/CmdShift-ai/the-line-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "voice",
+    "automation",
+    "background",
+    "tasks"
+  ]
 }
