@@ -1,0 +1,16 @@
+{
+  "name": "cmdshift",
+  "owner": {
+    "name": "CmdShift, LLC",
+    "url": "https://line.cmdshift.ai"
+  },
+  "description": "Plugins for The Line — a voice-driven crew of AI agents that do the work on your own machine.",
+  "plugins": [
+    {
+      "name": "the-line",
+      "source": "./the-line",
+      "description": "Runs your Line crew's work on this machine: background pollers that pull tasks, do them with your own Claude Code tools, and report back.",
+      "version": "0.4.0"
+    }
+  ]
+}
